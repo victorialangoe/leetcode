@@ -1,3 +1,6 @@
+// from https://leetcode.com/problems/palindrome-number/
+// solved 15.03.2023
+
 class PalindromeNumber {
     public boolean isPalindrome(int x) {
         String str = Integer.toString(x);
