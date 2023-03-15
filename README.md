@@ -1,1 +1,1 @@
-Only for fun, if you are into Leetcode; try solving them for yourself!
+Only for fun. if you are into Leetcode; try solving them for yourself!
